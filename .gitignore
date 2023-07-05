@@ -1,0 +1,33 @@
+# Ignore node_modules folder
+node_modules/
+
+# Ignore log files
+*.log
+
+# Ignore build output
+build/
+dist/
+
+# Ignore editor-specific files
+.vscode/
+.idea/
+
+# Ignore environment variables file
+.env
+
+# Ignore dependency lock files
+package-lock.json
+yarn.lock
+
+# Ignore compiled output or artifacts
+*.o
+*.pyc
+*.class
+
+# Ignore sensitive or personal information
+secrets.txt
+credentials.json
+
+# Ignore backup files
+*.bak
+*.swp
